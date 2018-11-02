@@ -1,4 +1,4 @@
-# AngularTodo
+# AngularTodo [![Build Status](https://travis-ci.com/anupbaranwal/angular-todo.svg?branch=master)](https://travis-ci.com/anupbaranwal/angular-todo) [![Coverage Status](https://coveralls.io/repos/github/anupbaranwal/angular-todo/badge.svg?branch=master)](https://coveralls.io/github/anupbaranwal/angular-todo?branch=master)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
