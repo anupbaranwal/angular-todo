@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5ec1cbc9bb845cf8e80d105fb2de888)](https://app.codacy.com/app/anupbaranwal/angular-todo?utm_source=github.com&utm_medium=referral&utm_content=anupbaranwal/angular-todo&utm_campaign=Badge_Grade_Dashboard)
 # AngularTodo [![Build Status](https://travis-ci.com/anupbaranwal/angular-todo.svg?branch=master)](https://travis-ci.com/anupbaranwal/angular-todo) [![Coverage Status](https://coveralls.io/repos/github/anupbaranwal/angular-todo/badge.svg?branch=master)](https://coveralls.io/github/anupbaranwal/angular-todo?branch=master)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
